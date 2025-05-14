@@ -1,5 +1,5 @@
 # Responsive Layout Tester
-Link to Webpage (https://romanmamrukov.github.io/rwdtest/)
+Link to Webpage (https://romanmamrukov.github.io/rdwtest/)
 A simple web tool to test how any website looks on various mobile and desktop screen sizes.
 
 ## 🚀 Features
